@@ -13,14 +13,12 @@ A numeric identifier for the subject of the study from 1 to 30
 #Activity
 
 There are 6 activities that the subjects did when readings were recorded.
+	 
 	 *Walking
 	 *Walking upstairs
- 
 	 *Walking downstairs
-
 	 *Sitting
 	 *Standing
- 
 	 *Laying
 
 #Values 
