@@ -6,9 +6,13 @@ accelerometers from the Samsung Galaxy S smartphone.
 ## Variables from the tidyData.txt
 
 
-#Subject: A numeric identifier for the subject of the study from 1 to 30
+#Subject 
 
-#Activity: There are 6 activities that the subjects did when readings were recorded.
+A numeric identifier for the subject of the study from 1 to 30
+
+#Activity
+
+There are 6 activities that the subjects did when readings were recorded.
 	 *Walking
 	 *Walking upstairs
  
@@ -19,7 +23,9 @@ accelerometers from the Samsung Galaxy S smartphone.
  
 	 *Laying
 
-#Values :The values summary is from the source of the raw dataset given . 
+#Values 
+
+The values summary is from the source of the raw dataset given . 
 The mean and standard deviation for all the readings have been used and averages according to the subject and the activity.
 
 
